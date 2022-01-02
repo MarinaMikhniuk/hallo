@@ -1,1 +1,1 @@
-# [Hallo](https://MarinaMikhniuk.github.io/rsschool-cv/cv)
+# [Hallo](https://MarinaMikhniuk.github.io/hallo-cv/cv)
